@@ -3087,7 +3087,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "three_1415"
+	(gr_text "HackPanel"
 		(at 116 123 90)
 		(layer "F.SilkS")
 		(uuid "501afb19-b145-443c-b80d-f91287637e80")
